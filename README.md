@@ -1,2 +1,2 @@
 # EOPRestApp
-Website made to manage and view cahracter information in EOP
+Website made to manage and view character information in EOP
