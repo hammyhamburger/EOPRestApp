@@ -1,2 +1,2 @@
 # EOPRestApp
-Server management tool for EOP
+Website made to manage and view cahracter information in EOP
